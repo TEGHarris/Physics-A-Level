@@ -11,13 +11,32 @@
             "id": "29b49ddb245a1600",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_templates/physics-note-teplate.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "physics-note-teplate"
+            }
+          },
+          {
+            "id": "901e465fb108a6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Electrons, Waves & Photons/Stationary Waves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stationary Waves"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "4. Electrons, Waves & Photons/Stationary Waves.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Stationary Waves"
             }
           },
           {
@@ -173,8 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f850e45dac769f2",
+  "active": "901e465fb108a6a3",
   "lastOpenFiles": [
+    "4. Electrons, Waves & Photons/Stationary Waves.md",
+    "4. Electrons, Waves & Photons/Stationary Waves.md",
     "_templates/physics-note-teplate.md",
     "6. Particle & Medical Physics",
     "5. Newtonian World & Astrophysics",
@@ -183,7 +205,6 @@
     "2. Foundations in Physics",
     "1. Development of Practical Skills in Physics",
     "2026-02-08.md",
-    "Untitled.md",
     "_templates",
     "Welcome.md"
   ]
